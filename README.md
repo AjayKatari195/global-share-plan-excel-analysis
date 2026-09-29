@@ -1,6 +1,4 @@
-## Dashboard Preview
-
-![Global Share Plan Dashboard](dashboard.png)# Global Employee Share Plan – Data Validation & Reconciliation Analysis
+![Global Share Plan Dashboard](dashboard_preview.png)
 
 ## Project Overview
 An end-to-end Excel analytics project simulating operational support for a global employee share-plan programme.
